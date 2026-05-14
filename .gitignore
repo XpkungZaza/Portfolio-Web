@@ -1,0 +1,21 @@
+# Dependency directories (คลังอะไหล่ที่หนักมาก ไม่ต้องเอาขึ้น)
+node_modules/
+
+# Logs (ไฟล์บันทึก error ต่างๆ)
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files (ไฟล์เฉพาะของโปรแกรมเขียนโค้ด)
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS metadata (ไฟล์ขยะจาก Windows/Mac)
+thumbs.db
+desktop.ini
+.DS_Store
